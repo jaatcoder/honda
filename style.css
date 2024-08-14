@@ -1,0 +1,41 @@
+.gray-scale
+{
+    filter: grayscale(1);
+}
+
+.rounded-pro
+{
+    border-radius:50% !important;
+    margin-bottom: 50px;
+}
+.person-hover:hover
+{
+    color: blue;
+    cursor: pointer;
+}
+.person-hover
+{
+    text-decoration: none;
+
+font-weight: 900;
+}
+.clients
+{
+    color: orange;
+}
+.honda-bg-info
+{
+    background-color: #264653;
+}
+.faq-img
+{
+    margin-left: 200px;
+}
+.faq-accordion
+{
+    margin-left: 50px;
+}
+.honda-footer
+{
+background-color: black;
+}
